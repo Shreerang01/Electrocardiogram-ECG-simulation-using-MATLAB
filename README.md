@@ -6,7 +6,8 @@ Introducing our MATLAB-based ECG Simulation project, a cutting-edge tool designe
 The simulator's key distinction lies in its use of the Fourier series principle, ensuring accurate waveform generation. By leveraging mathematical calculations grounded in Fourier series, our simulator provides a streamlined and time-efficient alternative to traditional methods. The attached file contains detailed descriptions of the calculations and methodologies, offering transparency into the simulation process. In summary, our ECG simulation project aims to advance medical education and research, providing a valuable resource for a deeper understanding of cardiac electrophysiology, arrhythmias, and related medical fields through the integration of MATLAB and innovative simulation techniques.
 ## Schematic
 
-![Schematic](Simulation on Tinkercad.png)
+![ECG_simulation](https://github.com/Shreerang01/Electrocardiogram-ECG-simulation-using-MATLAB/assets/113919844/c79d839b-a229-41cf-b934-4ddc4d8fa124)
+
 ## Table of Contents
 
 - Installation
