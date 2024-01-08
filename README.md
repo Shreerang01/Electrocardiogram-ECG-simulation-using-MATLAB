@@ -84,7 +84,7 @@ Anyone can contribute to the project by simply forking the project to your local
 
  - [Matlab Documentation](https://in.mathworks.com/help/matlab/)
 
-- [File Exchange](https://in.mathworks.com/matlabcentral/fileexchange/10858-ecg-simulation-using-matlab)
+- [MathWorks](https://in.mathworks.com/matlabcentral/fileexchange/10858-ecg-simulation-using-matlab)
 
 
 
